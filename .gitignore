@@ -6,3 +6,14 @@ node_modules
 dist
 .env
 .env.*
+static/rss.xml
+
+package-lock.json
+.idea
+yarn.lock
+.env.development
+
+.functions
+
+# Local Netlify folder
+.netlify
