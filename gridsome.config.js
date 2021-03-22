@@ -7,6 +7,6 @@
 module.exports = {
   siteName: 'Gridsome',
   plugins: [],
-  siteUrl: 'https://filipvandeneynde.github.io',
+  siteUrl: 'https://filipve1994.github.io',
   pathPrefix: '/gridsome-personal-blog',
 }
